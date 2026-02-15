@@ -172,4 +172,4 @@ These tumor size-related features strongly influence malignancy prediction.
 
 You can access and play with the full notebook here:
 
-👉 **[Breast Cancer Wisconsin Dataset – Kaggle Notebook](https://www.kaggle.com/code/devilamar7/breast-cancer-detection)**
+👉 **[Breast Cancer Detection – Kaggle Notebook](https://www.kaggle.com/code/devilamar7/breast-cancer-detection)**
