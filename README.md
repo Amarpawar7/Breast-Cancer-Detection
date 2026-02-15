@@ -19,9 +19,7 @@
 - [Model Evaluation](#-model-evaluation)
 - [Feature Importance](#-feature-importance)
 - [Key Insights](#-key-insights)
-- [How to Run](#-how-to-run)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
+- [View NOtebook](#-view-notebook)
 
 ---
 
@@ -169,9 +167,6 @@ These tumor size-related features strongly influence malignancy prediction.
 
 ---
 
-## 📂 Project Structure
-
-...
 
 ## 🧾 View Notebook
 
