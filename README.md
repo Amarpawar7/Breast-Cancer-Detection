@@ -85,12 +85,15 @@ The dataset contains characteristics of cell nuclei extracted from breast mass i
 ## 📂 Project Structure
 breast-cancer-detection/
 │
-├── breast-cancer-detection.ipynb
+├── notebooks/
+│   └── breast-cancer-detection.ipynb
+│
+├── data/
+│   └── data.csv
+│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-
 ---
 
 ## 🧹 Data Preprocessing
