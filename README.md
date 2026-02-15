@@ -138,11 +138,11 @@ Evaluation metrics used:
 
 | Model | Mean Accuracy |
 |--------|---------------|
-| Logistic Regression | ~97% |
-| Decision Tree | ~92% |
-| Random Forest | ~98% |
+| Logistic Regression | 98.07% |
+| Decision Tree | 91.56% |
+| Random Forest | 95.78% |
 
-Random Forest achieved the highest accuracy.
+Logistic Regression achieved the highest cross-validation accuracy and was selected as the final model.
 
 ---
 
