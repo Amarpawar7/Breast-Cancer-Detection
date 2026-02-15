@@ -168,3 +168,13 @@ These tumor size-related features strongly influence malignancy prediction.
 - Machine Learning can assist in early cancer detection.
 
 ---
+
+## 📂 Project Structure
+
+...
+
+## 🧾 View Notebook
+
+You can access and play with the full notebook here:
+
+👉 **[Breast Cancer Wisconsin Dataset – Kaggle Notebook](https://www.kaggle.com/code/devilamar7/breast-cancer-wisconsin-dataset)**
